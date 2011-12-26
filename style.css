@@ -1,11 +1,16 @@
 section.card {
 	margin-right: 20px;
 	margin-left: 20px;
-	margin-top: 20px;
-	font-size: 16px;
+	margin-top: 14px;
+	font-size: 14px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 div.container {
 	width: 320px;
+}
+
+body {
+	background-repeat: repeat;
+	background-image: url(lined_paper.png);
 }
