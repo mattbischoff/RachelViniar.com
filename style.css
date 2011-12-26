@@ -1,8 +1,11 @@
 section.card {
-	line-height: 14px;
 	margin-right: 20px;
 	margin-left: 20px;
 	margin-top: 14px;
+}
+
+p {
+	line-height: 42px;
 	font-size: 28px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
