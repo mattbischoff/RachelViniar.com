@@ -7,7 +7,7 @@ body {
 }
 
 #avatar {
-	margin-top:10%;
+	margin-top:7%;
 }
 
 	#avatar img {
@@ -36,7 +36,7 @@ h1 {
 p {
 	margin:auto;
 	padding:5px;
-	width:25%;
+	width:30%;
 }
 	p:hover span {
 		display:none;
