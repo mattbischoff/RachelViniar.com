@@ -24,12 +24,11 @@ body {
 #text {
 	margin:auto;
 	padding:20px;
-	width:25%
+	width:75%
 }
 
 h1 {
 	font-size:250%;
-	width:75%;
 	color:white;
 	margin:0;
 }
@@ -37,6 +36,7 @@ h1 {
 p {
 	margin:0;
 	padding:5px;
+	width:25%;
 }
 	p:hover span {
 		display:none;
