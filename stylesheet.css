@@ -48,7 +48,7 @@ p {
 
 #buttons {
 	display:inline-block;
-	width:50%;
+	width:570px;
 	margin:20px;
 }
 
@@ -142,9 +142,3 @@ p {
 		background-color:#5A3791;
 		border:3px solid #192855;
 	}
-
-@media screen and (max-device-width: 480px){
-	body {
-		margin: 10px 10%;
-	}
-}
