@@ -71,7 +71,7 @@ p {
 	}
 
 	.youtube{
-		background-color:CD201F;
+		background-color:#CD201F;
 	}
 
 	.twitch{
@@ -119,4 +119,10 @@ p {
 
 	.amazon{
 		background-color:#FF9900;
+	}
+	.bronycon{
+		background-color:white;
+	}
+	.pinterest{
+		background-color:#BD081C
 	}
