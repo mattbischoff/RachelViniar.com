@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Why I Still Wear My Apple Watch
-excerpt_separator: <!--more-->
 ---
 When I thought about making this my first blog post, this series of texts from [Grant](http://grantjbutler.com/#home) from about a year ago came immediately to mind: 
 
@@ -9,7 +8,6 @@ When I thought about making this my first blog post, this series of texts from [
 
 [Matt](http://matthewbischoff.com) said I should write a blog about office management and Google Apps and managing people, so of course my first post is about Apple Watch. WWDC is coming up though, and for all the posts I've read about why someone sold or stopped wearing their Watch, I haven't seen a lot about continued use. I've worn my Watch almost every day since I received it a year ago - in 12 months I've only missed 15 days. I put it on before I leave my apartment and take it off before I go to sleep, it charges overnight, and I put it back on again the next morning. Those 15 days that I missed wearing it? They were all days that I didn't leave the house. I've left my phone at home and still worn my Watch! So, why am I so loyal to my Watch when so many others have discarded it?
 
-<!--more-->
 
 ### Telling Time
 
