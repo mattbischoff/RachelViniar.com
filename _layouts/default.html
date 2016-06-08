@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+	<body>
+		
+	 <header class="site-header">
+		  <div class="wrapper">
+		   	<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+		    <a class="site-about" href="/about/">About</a>
+		  </div>
+		</header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+	
+	<footer class="site-footer">
+	  <div class="wrapper">
+			<div class="footer-text">
+				&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> <a href="mailto:{{ site.email }}">{{ site.author }}</a>.
+			</div>		
+	  </div>
+	</footer>
+
+</html>

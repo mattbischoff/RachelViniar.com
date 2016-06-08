@@ -1,0 +1,162 @@
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0; }
+
+/** Basic styling */
+body {
+  font-family: "Lora", sans-serif;
+	font-size:16px;
+	line-height:1.5;
+  color: #111;
+  background-color: #fdfdfd;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal; }
+
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+.highlight {
+  margin-bottom: 15px; }
+
+/** Images */
+img {
+  max-width: 100;
+  vertical-align: middle; 
+	}
+
+/** Headings */
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Open Sans Condensed", serif;
+
+}
+
+/** Links */
+a {
+  color: #438932;
+  text-decoration: none; }
+  a:hover {
+    color: #3B6133;
+    text-decoration: underline; }
+
+/** Wrapper */
+.wrapper {
+  max-width: 850px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+
+/** Clearfix */
+.wrapper:after, {
+  content: "";
+  display: table;
+  clear: both; }
+
+/** Site header */
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 56px;
+  position: relative; 
+	font-family:"Merriweather", serif;
+	}
+
+.site-title {
+  font-size: 24px;
+  line-height: 56px;
+  margin-bottom: 0;
+  float: left; }
+  .site-title, .site-title:visited {
+    color: #183712; }
+
+.site-about {
+  float: right;
+  line-height: 56px; 
+	font-size:18px;}
+	.site-about, .site-about:visited {	
+		color: #183712;}
+ 
+/** Page content */
+.page-content {
+  padding: 30px 0; }
+
+.page-title {
+  font-size: 40px; 
+}
+
+/** Posts */
+.post-header {
+  margin-bottom: 15px; }
+
+.post-title {
+  font-size: 36px;
+	}
+
+.post-content {
+  margin-bottom: 30px; }
+  .post-content h2 {
+    font-size: 32px; }
+  .post-content h3 {
+    font-size: 26px; }
+  .post-content h4 {
+    font-size: 20px; }
+	.post-content img{
+		width: 60%;
+		margin-left:auto;
+		margin-right:auto;
+		display:block;
+		padding:10px ;
+		}
+		
+.post-list {
+  margin-left: 0;
+  list-style: none; }
+  .post-list > li {
+    margin-bottom: 30px; }
+
+.post-meta {
+  font-size: 14px;
+  color: #848484; 
+	margin-bottom:15px;}
+
+.post-link {
+  display: block;
+  font-size: 24px; }	
+	
+/** Lists */
+ul, ol {
+  margin-left: 30px; }
+
+li > ul,
+li > ol {
+  margin-bottom: 0; }
+		
+/** Pagination */
+.pagination{
+	text-align:center;
+	font-family:"Merriweather", serif;
+	font-size:24px;
+}
+
+						
+/** Site footer */
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 15px 0; 
+	min-height: 28px;}
+
+.footer-text {
+  font-size: 12px;
+	font-family:"Merriweather", serif;
+	font-weight:300; 
+	line-height:28px;
+	text-align:center;}
+
+

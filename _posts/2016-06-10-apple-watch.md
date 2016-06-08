@@ -1,0 +1,36 @@
+---
+layout: post
+title:  Why I Still Wear My Apple Watch
+excerpt_separator: <!--more-->
+---
+When I thought about making this my first blog post, this series of texts from [Grant](http://grantjbutler.com/#home) from about a year ago came immediately to mind: 
+
+![Finally updating my MacBook Pro to Yosemite. And my copy of Majora's Mask 3D arrived today. So, naturally, I'm playing Alpha Sapphire.](/assets/granttext.jpg)
+
+[Matt](http://matthewbischoff.com) said I should write a blog about office management and Google Apps and managing people, so of course my first post is about Apple Watch. WWDC is coming up though, and for all the posts I've read about why someone sold or stopped wearing their Watch, I haven't seen a lot about continued use. I've worn my Watch almost every day since I received it a year ago - in 12 months I've only missed 15 days. I put it on before I leave my apartment and take it off before I go to sleep, it charges overnight, and I put it back on again the next morning. Those 15 days that I missed wearing it? They were all days that I didn't leave the house. I've left my phone at home and still worn my Watch! So, why am I so loyal to my Watch when so many others have discarded it?
+
+<!--more-->
+
+### Telling Time
+
+Telling time is the primary function of a watch, and I think Apple Watch does it splendidly. I use the Modular face, have since I got it, and being able to flip up my wrist, see the time in bright white on black super easily, and then return to what I was doing is something I actually never experienced prior to the Apple Watch. I wore a waterproof digital watch as a youngster (with a button to illuminate the face) but of course sometimes I would press one of the other buttons by accident, or just try to squint at it instead. I wore that watch until the day it's batteries died and I couldn't get them replaced, and never got a new one. Cell phones were a thing by then, I had one, and decided to just tell time with it.
+
+Telling time with a phone, even an iPhone, is actually kind of annoying. You have to get your phone and press a button, and then press it again to turn it off. You have to do this every time you want to know what time it is. Whether it's in your pocket or a purse or just sitting on the table in front of you, it's a little bit annoying, and definitely noticeable to anyone with you. I know the wrist twist is buggy and doesn't always work, but even tapping my Watch with my fingers to see the time is faster than pulling out my phone, and less terrible for my social life - the next reason to love the Watch.
+
+### Seamless Notifications
+
+In the days before Apple Watch, feeling my phone buzz in my pocket or ding from my bag meant I had two options: I could retrieve it from its location, see what the notification was, and inevitably act on it, or I could ignore the notification and spend some amount of time wondering if it was important. If I was in a group setting like dinner or drinks and took my phone out, well, that was it, I was on Twitter and IRC and back in my antisocial digital world - but if I ignored it, the anxiety over importance ensued. 
+
+The Watch has totally changed the way I interact with humans face-to-face. Now, when I'm out on a date or talking to a friend and I get a notification, it taps my wrist (no phantom pocket buzzes anymore either!), I glance at it, and then if it's important, I'll ask to take care of it the next time there's a pause in conversation. I can tell very quickly if it's important, and the interface is such that even if I do scroll the notification, I'm not exactly going to go on Twitter from there and try to get absorbed in my wrist. Almost everyone I've talked to who still wears their Watch mentions notifications being one of their few reasons, but there's another reason why notifications on the Watch are so awesome for me.
+
+### Girl Pockets
+
+Also, dresses. Even the iPhone 4S didn't fit particularly well in my jeans pockets, so the 6 has always been right out. Before the Watch, I would go to work and pull my phone out of my purse, plug it in, and leave it on my desk. If I went elsewhere in the office for a while (as I often did, being the office manager and general doer of things) I had the option to shove my phone uncomfortably in my pocket, to carry it with me in my hand and then put it down next to me somewhere, or to leave it on my desk. The day I was assembling the ping pong table out on the deck was a rough day for my phone - I left it on my desk at first and missed many hours of questions, so I moved it to the deck floor next to me where it got kicked around, a lot, then rained on, etcetera, it was very sad.
+
+The Watch changed all of that. The other day at work I was unpacking a new FreshDirect order over in the kitchen, and my phone was plugged into my laptop over on my desk. But while I was unpacking, a question on Slack came right to my wrist, and I was able to put down what I was doing and go answer it. Without the Watch I wouldn't even have known about the question until I made it back to my desk, and while in this instance I would have been back in ten minutes and it wasn't a vital question, there certainly are circumstances in which a notification could be time-sensitive and the Watch would be a life-saver.
+
+The last note on girl pockets and the Watch is about purses. When my phone is in my purse, half the time I won't even hear a notification - bars, grocery stores, subway stations, and even the sidewalks of NYC are all loud places. I'll think I feel vibrating when I don't, and won't feel or hear anything when there is a notification. Though rarely if I'm wearing a thick coat I won't notice the taps from the Watch anyway, there has been a much higher success rate of notifications actually getting to me when I'm out ever since I started wearing the Watch.
+
+### Management
+
+So I guess I can tie the Watch back to office management after all, because the Watch actually has made me a more efficient office manager! By getting notifications on my wrist instead of at my desk, I've become able to answer them more quickly during the workday. By having the Watch when I'm out and about, I can see if a notification is a text from a friend for later or something from work that is in dire need of response, and never miss something that actually is important. Reminders and calendar notifications on the Watch keep my time organized when away from my phone, which is useful because times when my phone is actually in my pocket are few and far-between. Even the fitness function has helped me become a better office manager - when it's time to stand, I have to take at least a minute walking around the office and seeing if there's anything to tidy or fix. The convenience to my job of having the vital functions on my phone on my wrist cannot be overstated. If you're the kind of person who doesn't carry your phone on your person all the time and you find yourself thinking your job could be easier or you could be more efficient if only your information was closer at hand, find one of the people who never wear their Apple Watches anymore and see if they'll let you borrow it. And then keep it. Forever.
