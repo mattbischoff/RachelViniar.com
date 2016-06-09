@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Why I Still Wear My Apple Watch
+description: So many people stopped wearing their Apple Watch. I'm still going strong with mine. They wrote about it, so I did, too.
 ---
 When I thought about making this my first blog post, this series of texts from [Grant](http://grantjbutler.com/#home) from about a year ago came immediately to mind: 
 
