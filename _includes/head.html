@@ -27,6 +27,9 @@
 	
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:creator" content="@crystallized">
-	<meta name="twitter:description" content="{{ page.description }}">
-	
+	{% if page.description %}
+		<meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+		<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
 </head>
