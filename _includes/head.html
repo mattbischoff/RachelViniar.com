@@ -25,16 +25,16 @@
 	
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 	
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:creator" content="@crystallized">
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@crystallized" />
 	{% if page.title %}
 		<meta name="twitter:title" content=" {{ page.title }}" />
 	{% else %}
-		<meta name="twitter:title" content="{{ site.title }}">
+		<meta name="twitter:title" content="{{ site.title }}" />
 	{% endif %}
 	{% if page.description %}
-		<meta name="twitter:description" content="{{ page.description }}">
+		<meta name="twitter:description" content="{{ page.description }}" />
 	{% else %}
-		<meta name="twitter:description" content="{{ site.description }}">
+		<meta name="twitter:description" content="{{ site.description }}" />
 	{% endif %}
 </head>
