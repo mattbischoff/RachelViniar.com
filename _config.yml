@@ -8,7 +8,7 @@
 # Site settings
 title: Rachel Viniar
 email: rviniar@gmail.com
-description: "Rachel Viniar is an office manager, Google Apps admin, and general lover of organization and spreadsheets. This is her blog, where she talks about those things and probabably other stuff too."
+description: "Rachel Viniar is an office manager turned IT admin with a general love of organization and data (and games). This is her blog, where she talks about those things and probabably other stuff too."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rachelviniar.com" # the base hostname & protocol for your site
 permalink: /:title/
