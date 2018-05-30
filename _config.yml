@@ -17,5 +17,5 @@ future: false
 
 # Build settings
 markdown: kramdown
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 3
